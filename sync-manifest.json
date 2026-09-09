@@ -1,0 +1,887 @@
+[
+  {
+    "path": "NOVO CAGED/2022/202201/CAGEDEXC202201.7z",
+    "size": 109749,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202201/CAGEDEXC202201.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202201/CAGEDFOR202201.7z",
+    "size": 2015280,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202201/CAGEDFOR202201.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202201/CAGEDMOV202201.7z",
+    "size": 43217451,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202201/CAGEDMOV202201.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202202/CAGEDEXC202202.7z",
+    "size": 115755,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202202/CAGEDEXC202202.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202202/CAGEDFOR202202.7z",
+    "size": 1777602,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202202/CAGEDFOR202202.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202202/CAGEDMOV202202.7z",
+    "size": 47209395,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202202/CAGEDMOV202202.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202203/CAGEDEXC202203.7z",
+    "size": 110010,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202203/CAGEDEXC202203.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202203/CAGEDFOR202203.7z",
+    "size": 1890410,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202203/CAGEDFOR202203.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202203/CAGEDMOV202203.7z",
+    "size": 48101588,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202203/CAGEDMOV202203.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202204/CAGEDEXC202204.7z",
+    "size": 93514,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202204/CAGEDEXC202204.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202204/CAGEDFOR202204.7z",
+    "size": 1897736,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202204/CAGEDFOR202204.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202204/CAGEDMOV202204.7z",
+    "size": 44867258,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202204/CAGEDMOV202204.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202205/CAGEDEXC202205.7z",
+    "size": 87117,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202205/CAGEDEXC202205.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202205/CAGEDFOR202205.7z",
+    "size": 513923,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202205/CAGEDFOR202205.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202205/CAGEDMOV202205.7z",
+    "size": 46524124,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202205/CAGEDMOV202205.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202206/CAGEDEXC202206.7z",
+    "size": 83126,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202206/CAGEDEXC202206.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202206/CAGEDFOR202206.7z",
+    "size": 1167215,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202206/CAGEDFOR202206.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202206/CAGEDMOV202206.7z",
+    "size": 44999866,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202206/CAGEDMOV202206.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202207/CAGEDEXC202207.7z",
+    "size": 83399,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202207/CAGEDEXC202207.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202207/CAGEDFOR202207.7z",
+    "size": 878601,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202207/CAGEDFOR202207.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202207/CAGEDMOV202207.7z",
+    "size": 45429180,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202207/CAGEDMOV202207.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202208/CAGEDEXC202208.7z",
+    "size": 74406,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202208/CAGEDEXC202208.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202208/CAGEDFOR202208.7z",
+    "size": 1082886,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202208/CAGEDFOR202208.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202208/CAGEDMOV202208.7z",
+    "size": 48975744,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202208/CAGEDMOV202208.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202209/CAGEDEXC202209.7z",
+    "size": 79439,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202209/CAGEDEXC202209.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202209/CAGEDFOR202209.7z",
+    "size": 694910,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202209/CAGEDFOR202209.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202209/CAGEDMOV202209.7z",
+    "size": 45611759,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202209/CAGEDMOV202209.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202210/CAGEDEXC202210.7z",
+    "size": 81823,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202210/CAGEDEXC202210.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202210/CAGEDFOR202210.7z",
+    "size": 883978,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202210/CAGEDFOR202210.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202210/CAGEDMOV202210.7z",
+    "size": 43580858,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202210/CAGEDMOV202210.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202211/CAGEDEXC202211.7z",
+    "size": 84279,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202211/CAGEDEXC202211.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202211/CAGEDFOR202211.7z",
+    "size": 840717,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202211/CAGEDFOR202211.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202211/CAGEDMOV202211.7z",
+    "size": 42601431,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202211/CAGEDMOV202211.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202212/CAGEDEXC202212.7z",
+    "size": 90099,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202212/CAGEDEXC202212.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202212/CAGEDFOR202212.7z",
+    "size": 849822,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202212/CAGEDFOR202212.7z"
+  },
+  {
+    "path": "NOVO CAGED/2022/202212/CAGEDMOV202212.7z",
+    "size": 40425035,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2022/202212/CAGEDMOV202212.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202301/CAGEDEXC202301.7z",
+    "size": 102254,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202301/CAGEDEXC202301.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202301/CAGEDFOR202301.7z",
+    "size": 1016110,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202301/CAGEDFOR202301.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202301/CAGEDMOV202301.7z",
+    "size": 46719858,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202301/CAGEDMOV202301.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202302/CAGEDEXC202302.7z",
+    "size": 82080,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202302/CAGEDEXC202302.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202302/CAGEDFOR202302.7z",
+    "size": 900906,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202302/CAGEDFOR202302.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202302/CAGEDMOV202302.7z",
+    "size": 46755851,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202302/CAGEDMOV202302.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202303/CAGEDEXC202303.7z",
+    "size": 107254,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202303/CAGEDEXC202303.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202303/CAGEDFOR202303.7z",
+    "size": 787292,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202303/CAGEDFOR202303.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202303/CAGEDMOV202303.7z",
+    "size": 52898207,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202303/CAGEDMOV202303.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202304/CAGEDEXC202304.7z",
+    "size": 90599,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202304/CAGEDEXC202304.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202304/CAGEDFOR202304.7z",
+    "size": 895379,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202304/CAGEDFOR202304.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202304/CAGEDMOV202304.7z",
+    "size": 45282290,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202304/CAGEDMOV202304.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202305/CAGEDEXC202305.7z",
+    "size": 109689,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202305/CAGEDEXC202305.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202305/CAGEDFOR202305.7z",
+    "size": 960433,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202305/CAGEDFOR202305.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202305/CAGEDMOV202305.7z",
+    "size": 49004467,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202305/CAGEDMOV202305.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202306/CAGEDEXC202306.7z",
+    "size": 109477,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202306/CAGEDEXC202306.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202306/CAGEDFOR202306.7z",
+    "size": 783722,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202306/CAGEDFOR202306.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202306/CAGEDMOV202306.7z",
+    "size": 46886297,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202306/CAGEDMOV202306.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202307/CAGEDEXC202307.7z",
+    "size": 101733,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202307/CAGEDEXC202307.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202307/CAGEDFOR202307.7z",
+    "size": 764043,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202307/CAGEDFOR202307.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202307/CAGEDMOV202307.7z",
+    "size": 46260497,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202307/CAGEDMOV202307.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202308/CAGEDEXC202308.7z",
+    "size": 98717,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202308/CAGEDEXC202308.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202308/CAGEDFOR202308.7z",
+    "size": 621330,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202308/CAGEDFOR202308.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202308/CAGEDMOV202308.7z",
+    "size": 50031370,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202308/CAGEDMOV202308.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202309/CAGEDEXC202309.7z",
+    "size": 95591,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202309/CAGEDEXC202309.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202309/CAGEDFOR202309.7z",
+    "size": 509217,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202309/CAGEDFOR202309.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202309/CAGEDMOV202309.7z",
+    "size": 45365331,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202309/CAGEDMOV202309.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202310/CAGEDEXC202310.7z",
+    "size": 111626,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202310/CAGEDEXC202310.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202310/CAGEDFOR202310.7z",
+    "size": 824791,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202310/CAGEDFOR202310.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202310/CAGEDMOV202310.7z",
+    "size": 46890697,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202310/CAGEDMOV202310.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202311/CAGEDEXC202311.7z",
+    "size": 100584,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202311/CAGEDEXC202311.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202311/CAGEDFOR202311.7z",
+    "size": 722655,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202311/CAGEDFOR202311.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202311/CAGEDMOV202311.7z",
+    "size": 45657398,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202311/CAGEDMOV202311.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202312/CAGEDEXC202312.7z",
+    "size": 96710,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202312/CAGEDEXC202312.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202312/CAGEDFOR202312.7z",
+    "size": 588448,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202312/CAGEDFOR202312.7z"
+  },
+  {
+    "path": "NOVO CAGED/2023/202312/CAGEDMOV202312.7z",
+    "size": 43449338,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2023/202312/CAGEDMOV202312.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202401/CAGEDEXC202401.7z",
+    "size": 93559,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202401/CAGEDEXC202401.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202401/CAGEDFOR202401.7z",
+    "size": 574052,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202401/CAGEDFOR202401.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202401/CAGEDMOV202401.7z",
+    "size": 50252445,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202401/CAGEDMOV202401.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202402/CAGEDEXC202402.7z",
+    "size": 102846,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202402/CAGEDEXC202402.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202402/CAGEDFOR202402.7z",
+    "size": 1037816,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202402/CAGEDFOR202402.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202402/CAGEDMOV202402.7z",
+    "size": 53343727,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202402/CAGEDMOV202402.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202403/CAGEDEXC202403.7z",
+    "size": 116349,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202403/CAGEDEXC202403.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202403/CAGEDFOR202403.7z",
+    "size": 665608,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202403/CAGEDFOR202403.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202403/CAGEDMOV202403.7z",
+    "size": 54276556,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202403/CAGEDMOV202403.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202404/CAGEDEXC202404.7z",
+    "size": 120261,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202404/CAGEDEXC202404.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202404/CAGEDFOR202404.7z",
+    "size": 700503,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202404/CAGEDFOR202404.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202404/CAGEDMOV202404.7z",
+    "size": 54334120,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202404/CAGEDMOV202404.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202405/CAGEDEXC202405.7z",
+    "size": 122725,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202405/CAGEDEXC202405.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202405/CAGEDFOR202405.7z",
+    "size": 618522,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202405/CAGEDFOR202405.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202405/CAGEDMOV202405.7z",
+    "size": 52013075,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202405/CAGEDMOV202405.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202406/CAGEDEXC202406.7z",
+    "size": 112635,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202406/CAGEDEXC202406.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202406/CAGEDFOR202406.7z",
+    "size": 657045,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202406/CAGEDFOR202406.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202406/CAGEDMOV202406.7z",
+    "size": 50057151,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202406/CAGEDMOV202406.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202407/CAGEDEXC202407.7z",
+    "size": 109634,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202407/CAGEDEXC202407.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202407/CAGEDFOR202407.7z",
+    "size": 588539,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202407/CAGEDFOR202407.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202407/CAGEDMOV202407.7z",
+    "size": 53309299,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202407/CAGEDMOV202407.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202408/CAGEDEXC202408.7z",
+    "size": 99861,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202408/CAGEDEXC202408.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202408/CAGEDFOR202408.7z",
+    "size": 523329,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202408/CAGEDFOR202408.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202408/CAGEDMOV202408.7z",
+    "size": 53870229,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202408/CAGEDMOV202408.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202409/CAGEDEXC202409.7z",
+    "size": 104037,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202409/CAGEDEXC202409.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202409/CAGEDFOR202409.7z",
+    "size": 586593,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202409/CAGEDFOR202409.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202409/CAGEDMOV202409.7z",
+    "size": 51790288,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202409/CAGEDMOV202409.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202410/CAGEDEXC202410.7z",
+    "size": 105951,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202410/CAGEDEXC202410.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202410/CAGEDFOR202410.7z",
+    "size": 554962,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202410/CAGEDFOR202410.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202410/CAGEDMOV202410.7z",
+    "size": 54686311,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202410/CAGEDMOV202410.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202411/CAGEDEXC202411.7z",
+    "size": 88855,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202411/CAGEDEXC202411.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202411/CAGEDFOR202411.7z",
+    "size": 455124,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202411/CAGEDFOR202411.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202411/CAGEDMOV202411.7z",
+    "size": 48630492,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202411/CAGEDMOV202411.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202412/CAGEDEXC202412.7z",
+    "size": 71107,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202412/CAGEDEXC202412.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202412/CAGEDFOR202412.7z",
+    "size": 533176,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202412/CAGEDFOR202412.7z"
+  },
+  {
+    "path": "NOVO CAGED/2024/202412/CAGEDMOV202412.7z",
+    "size": 45136741,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2024/202412/CAGEDMOV202412.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202501/CAGEDEXC202501.7z",
+    "size": 104511,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202501/CAGEDEXC202501.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202501/CAGEDFOR202501.7z",
+    "size": 544766,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202501/CAGEDFOR202501.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202501/CAGEDMOV202501.7z",
+    "size": 55719173,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202501/CAGEDMOV202501.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202502/CAGEDEXC202502.7z",
+    "size": 101816,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202502/CAGEDEXC202502.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202502/CAGEDFOR202502.7z",
+    "size": 762643,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202502/CAGEDFOR202502.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202502/CAGEDMOV202502.7z",
+    "size": 60011810,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202502/CAGEDMOV202502.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202503/CAGEDEXC202503.7z",
+    "size": 142490,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202503/CAGEDEXC202503.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202503/CAGEDFOR202503.7z",
+    "size": 858550,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202503/CAGEDFOR202503.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202503/CAGEDMOV202503.7z",
+    "size": 55662990,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202503/CAGEDMOV202503.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202504/CAGEDEXC202504.7z",
+    "size": 80318,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202504/CAGEDEXC202504.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202504/CAGEDFOR202504.7z",
+    "size": 496301,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202504/CAGEDFOR202504.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202504/CAGEDMOV202504.7z",
+    "size": 54571341,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202504/CAGEDMOV202504.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202505/CAGEDEXC202505.7z",
+    "size": 168980,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202505/CAGEDEXC202505.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202505/CAGEDFOR202505.7z",
+    "size": 1445949,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202505/CAGEDFOR202505.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202505/CAGEDMOV202505.7z",
+    "size": 53785854,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202505/CAGEDMOV202505.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202506/CAGEDEXC202506.7z",
+    "size": 105966,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202506/CAGEDEXC202506.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202506/CAGEDFOR202506.7z",
+    "size": 667427,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202506/CAGEDFOR202506.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202506/CAGEDMOV202506.7z",
+    "size": 50842824,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202506/CAGEDMOV202506.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202507/CAGEDEXC202507.7z",
+    "size": 126064,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202507/CAGEDEXC202507.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202507/CAGEDFOR202507.7z",
+    "size": 933977,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202507/CAGEDFOR202507.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202507/CAGEDMOV202507.7z",
+    "size": 54073599,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202507/CAGEDMOV202507.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202508/CAGEDEXC202508.7z",
+    "size": 111149,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202508/CAGEDEXC202508.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202508/CAGEDFOR202508.7z",
+    "size": 561394,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202508/CAGEDFOR202508.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202508/CAGEDMOV202508.7z",
+    "size": 53665905,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202508/CAGEDMOV202508.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202509/CAGEDEXC202509.7z",
+    "size": 119675,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202509/CAGEDEXC202509.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202509/CAGEDFOR202509.7z",
+    "size": 655984,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202509/CAGEDFOR202509.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202509/CAGEDMOV202509.7z",
+    "size": 53975596,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202509/CAGEDMOV202509.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202510/CAGEDEXC202510.7z",
+    "size": 125209,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202510/CAGEDEXC202510.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202510/CAGEDFOR202510.7z",
+    "size": 490615,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202510/CAGEDFOR202510.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202510/CAGEDMOV202510.7z",
+    "size": 54992736,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202510/CAGEDMOV202510.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202511/CAGEDEXC202511.7z",
+    "size": 103360,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202511/CAGEDEXC202511.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202511/CAGEDFOR202511.7z",
+    "size": 595004,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202511/CAGEDFOR202511.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202511/CAGEDMOV202511.7z",
+    "size": 47598690,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202511/CAGEDMOV202511.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202512/CAGEDEXC202512.7z",
+    "size": 92412,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202512/CAGEDEXC202512.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202512/CAGEDFOR202512.7z",
+    "size": 543024,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202512/CAGEDFOR202512.7z"
+  },
+  {
+    "path": "NOVO CAGED/2025/202512/CAGEDMOV202512.7z",
+    "size": 44879645,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2025/202512/CAGEDMOV202512.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202601/CAGEDEXC202601.7z",
+    "size": 124303,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202601/CAGEDEXC202601.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202601/CAGEDFOR202601.7z",
+    "size": 633384,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202601/CAGEDFOR202601.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202601/CAGEDMOV202601.7z",
+    "size": 52965302,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202601/CAGEDMOV202601.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202602/CAGEDEXC202602.7z",
+    "size": 137469,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202602/CAGEDEXC202602.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202602/CAGEDFOR202602.7z",
+    "size": 945794,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202602/CAGEDFOR202602.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202602/CAGEDMOV202602.7z",
+    "size": 55543328,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202602/CAGEDMOV202602.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202603/CAGEDEXC202603.7z",
+    "size": 156026,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202603/CAGEDEXC202603.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202603/CAGEDFOR202603.7z",
+    "size": 915687,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202603/CAGEDFOR202603.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202603/CAGEDMOV202603.7z",
+    "size": 59393453,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202603/CAGEDMOV202603.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202604/CAGEDEXC202604.7z",
+    "size": 140967,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202604/CAGEDEXC202604.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202604/CAGEDFOR202604.7z",
+    "size": 783837,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202604/CAGEDFOR202604.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202604/CAGEDMOV202604.7z",
+    "size": 54955632,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202604/CAGEDMOV202604.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202605/CAGEDEXC202605.7z",
+    "size": 135734,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202605/CAGEDEXC202605.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202605/CAGEDFOR202605.7z",
+    "size": 969575,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202605/CAGEDFOR202605.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202605/CAGEDMOV202605.7z",
+    "size": 53576799,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202605/CAGEDMOV202605.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202606/CAGEDEXC202606.7z",
+    "size": 121056,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202606/CAGEDEXC202606.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202606/CAGEDFOR202606.7z",
+    "size": 801670,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202606/CAGEDFOR202606.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202606/CAGEDMOV202606.7z",
+    "size": 53059747,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202606/CAGEDMOV202606.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202607/CAGEDEXC202607.7z",
+    "size": 134779,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202607/CAGEDEXC202607.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202607/CAGEDFOR202607.7z",
+    "size": 940069,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202607/CAGEDFOR202607.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202607/CAGEDMOV202607.7z",
+    "size": 55197862,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202607/CAGEDMOV202607.7z"
+  },
+  {
+    "path": "NOVO CAGED/Comunicado - Grupamento de Atividades Econômicas.pdf",
+    "size": 345046,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/Comunicado - Grupamento de Atividades Econômicas.pdf"
+  },
+  {
+    "path": "NOVO CAGED/Layout Não-identificado Novo Caged Movimentação.xlsx",
+    "size": 293931,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/Layout Não-identificado Novo Caged Movimentação.xlsx"
+  },
+  {
+    "path": "NOVO CAGED/Leia-me.txt",
+    "size": 1084,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/Leia-me.txt"
+  },
+  {
+    "path": "NOVO CAGED/Sobre o Novo Caged.pdf",
+    "size": 83781,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/Sobre o Novo Caged.pdf"
+  },
+  {
+    "path": "RAIS/2025/RAIS_ESTAB_PUB.7z",
+    "size": 143766046,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/2025/RAIS_ESTAB_PUB.7z"
+  },
+  {
+    "path": "RAIS/2025/RAIS_VINC_PUB_CENTRO_OESTE.7z",
+    "size": 354015896,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/2025/RAIS_VINC_PUB_CENTRO_OESTE.7z"
+  },
+  {
+    "path": "RAIS/2025/RAIS_VINC_PUB_MG_ES_RJ.7z",
+    "size": 766814132,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/2025/RAIS_VINC_PUB_MG_ES_RJ.7z"
+  },
+  {
+    "path": "RAIS/2025/RAIS_VINC_PUB_NI.7z",
+    "size": 209311,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/2025/RAIS_VINC_PUB_NI.7z"
+  },
+  {
+    "path": "RAIS/2025/RAIS_VINC_PUB_NORDESTE.7z",
+    "size": 639823548,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/2025/RAIS_VINC_PUB_NORDESTE.7z"
+  },
+  {
+    "path": "RAIS/2025/RAIS_VINC_PUB_NORTE.7z",
+    "size": 211992734,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/2025/RAIS_VINC_PUB_NORTE.7z"
+  },
+  {
+    "path": "RAIS/2025/RAIS_VINC_PUB_SP.7z",
+    "size": 1107305918,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/2025/RAIS_VINC_PUB_SP.7z"
+  },
+  {
+    "path": "RAIS/2025/RAIS_VINC_PUB_SUL.7z",
+    "size": 704888712,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/2025/RAIS_VINC_PUB_SUL.7z"
+  }
+]

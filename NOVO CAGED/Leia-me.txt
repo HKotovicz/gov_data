@@ -1,0 +1,18 @@
+COMENTÁRIOS GERAIS
+
+Os microdados resultantes da nova consolidação estão disponibilizados 
+de acordo com o mês da divulgação, a partir de janeiro de 2020, contendo 
+três arquivos para cada competência. Seguindo um padrão de nomes coerente, 
+os arquivos CAGEDMOVAAAAMM trazem as movimentações declaradas dentro do prazo 
+com competência de declaração igual a AAAAMM. Os arquivos CAGEDFORAAAAMM 
+trazem as movimentações declaradas fora do prazo com competência de declaração 
+igual a AAAAMM. Os arquivos CAGEDEXCAAAAMM trazem as movimentações excluídas 
+com competência de declaração da exclusão igual a AAAAMM.
+
+SOBRE AS EXCLUSÕES
+
+A exclusão corresponde ao cancelamento de um evento ou movimentação, por exemplo, 
+a empresa pode excluir em agosto uma admissão informada erroneamente em maio. 
+A exclusão de um evento tem uma consequência sobre o saldo do Novo Caged inversa 
+à do evento declarado. Desta forma a exclusão de uma admissão causa uma redução 
+no saldo e a exclusão de um desligamento causa uma elevação do saldo.
