@@ -51,7 +51,7 @@ jobs:
           if [ -n "$RAIS_YEAR" ]; then
             args+=(--rais-year "$RAIS_YEAR")
           fi
-          python sync_ftp.py "${args[@]}"
+          python -u sync_ftp.py "${args[@]}"
 
       - name: Commit and push changes
         run: |

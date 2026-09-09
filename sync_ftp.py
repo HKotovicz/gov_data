@@ -37,6 +37,7 @@ import json
 import os
 import re
 import sys
+import time
 import unicodedata
 from pathlib import Path
 
@@ -46,6 +47,11 @@ MIN_YEAR = 2022
 
 # Folder names that hold duplicate/archived copies rather than canonical data.
 SKIP_DIR_NAMES = {"legado"}
+
+# Download robustness: the FTP server can stall or drop long sessions, so we
+# retry transient failures on a fresh connection and resume partial files.
+MAX_ATTEMPTS = 5
+RETRY_DELAY = 10  # seconds, scaled by the attempt number
 
 YEAR_RE = re.compile(r"^\d{4}$")
 
@@ -63,7 +69,7 @@ def connect() -> ftplib.FTP:
     ftp = ftplib.FTP()
     # The server reports filenames in Latin-1/CP1252 (e.g. "vínculos").
     ftp.encoding = "latin-1"
-    ftp.connect(HOST, 21, timeout=60)
+    ftp.connect(HOST, 21, timeout=300)
     ftp.login()  # anonymous
     ftp.set_pasv(True)
     ftp.voidcmd("TYPE I")  # binary transfers
@@ -188,18 +194,38 @@ def needs_download(entry: dict, root: Path, known: dict, force: bool) -> bool:
     return True
 
 
+def reconnect(ftp):
+    try:
+        ftp.close()
+    except Exception:
+        pass
+    return connect()
+
+
 def download(ftp, entry: dict, root: Path):
+    """Download one file, resuming from any partial .part and verifying size."""
     dest = root / entry["rel"]
     dest.parent.mkdir(parents=True, exist_ok=True)
     tmp = dest.with_name(dest.name + ".part")
-    try:
-        with open(tmp, "wb") as fh:
+    offset = tmp.stat().st_size if tmp.exists() else 0
+    # Append mode so a resumed transfer continues at the current offset.
+    with open(tmp, "ab") as fh:
+        if offset:
+            try:
+                ftp.retrbinary("RETR " + entry["remote"], fh.write, rest=offset)
+            except ftplib.error_perm:
+                # Server does not support REST: restart the file from scratch.
+                fh.seek(0)
+                fh.truncate()
+                ftp.retrbinary("RETR " + entry["remote"], fh.write)
+        else:
             ftp.retrbinary("RETR " + entry["remote"], fh.write)
-        os.replace(tmp, dest)
-    except BaseException:
-        if tmp.exists():
-            tmp.unlink()
-        raise
+    actual = tmp.stat().st_size
+    if actual != entry["size"]:
+        tmp.unlink()
+        raise SyncError(f"size mismatch for {entry['rel']}: got {actual}, "
+                        f"expected {entry['size']}")
+    os.replace(tmp, dest)
 
 
 def main(argv=None):
@@ -255,7 +281,21 @@ def main(argv=None):
                 bytes_pending += entry["size"]
                 print(f"  NEW  {entry['rel']}  ({entry['size']:,} bytes)")
             else:
-                download(ftp, entry, root)
+                last_exc = None
+                for attempt in range(1, MAX_ATTEMPTS + 1):
+                    try:
+                        download(ftp, entry, root)
+                        break
+                    except Exception as exc:  # transient FTP failures only
+                        last_exc = exc
+                        if attempt < MAX_ATTEMPTS:
+                            print(f"  retry {entry['rel']} "
+                                  f"(attempt {attempt}/{MAX_ATTEMPTS}): {exc}",
+                                  file=sys.stderr, flush=True)
+                            time.sleep(RETRY_DELAY * attempt)
+                            ftp = reconnect(ftp)
+                else:
+                    raise last_exc
                 counts["downloaded"] += 1
                 bytes_done += entry["size"]
                 print(f"  ok   {entry['rel']}  ({entry['size']:,} bytes)")
