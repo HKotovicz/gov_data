@@ -1,0 +1,6 @@
+# Partial downloads (cleaned up on success, ignored as a safety net)
+*.part
+
+# Python artifacts
+__pycache__/
+*.pyc

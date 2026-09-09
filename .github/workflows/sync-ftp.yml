@@ -1,0 +1,67 @@
+name: Sync FTP microdata
+
+on:
+  schedule:
+    # Monthly: NOVO CAGED publishes new months; a new RAIS year folder is
+    # picked up automatically whenever it appears.
+    - cron: "17 6 6 * *"
+  workflow_dispatch:
+    inputs:
+      datasets:
+        description: "Datasets to mirror (comma-separated)"
+        required: false
+        default: "NOVO CAGED,RAIS"
+      rais_year:
+        description: "RAIS year to mirror (blank = latest available)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ftp-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        # lfs is intentionally left OFF: the script uses the committed
+        # manifest to decide what changed, so we never need to pull the
+        # existing multi-GB dataset out of LFS just to run an incremental sync.
+        with:
+          lfs: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Mirror FTP microdata
+        env:
+          DATASETS: ${{ inputs.datasets || 'NOVO CAGED,RAIS' }}
+          RAIS_YEAR: ${{ inputs.rais_year || '' }}
+        run: |
+          set -euo pipefail
+          args=(--datasets "$DATASETS")
+          if [ -n "$RAIS_YEAR" ]; then
+            args+=(--rais-year "$RAIS_YEAR")
+          fi
+          python sync_ftp.py "${args[@]}"
+
+      - name: Commit and push changes
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "sync: update microdata $(date -u +%Y-%m-%d)"
+            git push
+          fi
