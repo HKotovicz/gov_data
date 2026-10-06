@@ -825,6 +825,21 @@
     "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202607/CAGEDMOV202607.7z"
   },
   {
+    "path": "NOVO CAGED/2026/202608/CAGEDEXC202608.7z",
+    "size": 137454,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202608/CAGEDEXC202608.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202608/CAGEDFOR202608.7z",
+    "size": 658739,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202608/CAGEDFOR202608.7z"
+  },
+  {
+    "path": "NOVO CAGED/2026/202608/CAGEDMOV202608.7z",
+    "size": 50894750,
+    "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/2026/202608/CAGEDMOV202608.7z"
+  },
+  {
     "path": "NOVO CAGED/Comunicado - Grupamento de Atividades Econômicas.pdf",
     "size": 345046,
     "url": "ftp://ftp.mtps.gov.br/pdet/microdados/NOVO CAGED/Comunicado - Grupamento de Atividades Econômicas.pdf"
